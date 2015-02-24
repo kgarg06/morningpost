@@ -1,0 +1,21 @@
+.logo{
+	font-size:48px;
+	font-family: Cinzel, serif;
+}
+
+.cinzel{
+	font-family:Cinzel, serif;
+}
+
+a{
+	color:grey;
+}
+
+.tab{
+	font-size:12px;
+	font-family:cinzel;
+}
+
+img, embed, object, video{
+	max-width: 100%;
+}
